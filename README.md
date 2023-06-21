@@ -1,9 +1,9 @@
 # git-setup
 
 ## ssh key
-- Generate ssh key: `ssh-keygen -t ed25519 -C "lekyzhang@yahoo.com`
+- Generate ssh key: `ssh-keygen -t ed25519 -C "lekyzhang@yahoo.com"`
 - Add key to the keychain: `ssh-add -K ~/.ssh/id_ed25519`
-- View the key: `cat ~/.ssh/id_ed25519`
+- View the key: `cat ~/.ssh/id_ed25519.pub`
 
 ## git setup
 - Create account: https://github.com/
